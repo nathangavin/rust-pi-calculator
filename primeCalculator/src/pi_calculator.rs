@@ -42,3 +42,7 @@
         return isPrime
     endfunc
 */
+
+fn main() {
+    
+}
